@@ -69,12 +69,12 @@ V souborech s testovacími vstupy je napsáno, jak dlouho jejich řešení trvá
 
 Obě implementované verze jsou příliš pomalé, než aby dokázaly nalézt řešení z počáteční pozice. Po odevzdání projektu autor nalezl tzv. Peg solitaire, jehož evropská verze je shodná s pravidly implementované hry.
 
-Jedno z možných řešení je (zde)[https://en.wikipedia.org/wiki/Peg_solitaire#Solutions_to_the_European_game] (v jiném souřadnicovém systému, než používá tento projekt).
+Jedno z možných řešení je [zde](https://en.wikipedia.org/wiki/Peg_solitaire#Solutions_to_the_European_game) (v jiném souřadnicovém systému, než používá tento projekt).
 
 
 ## Další informace:
-https://www.zatrolene-hry.cz/spolecenska-hra/to-mi-neda-pokoj-8518/
-https://en.wikipedia.org/wiki/Peg_solitaire
-- https://en.wikipedia.org/wiki/Peg_solitaire#Solutions_to_the_European_game
-https://www.reddit.com/r/compsci/comments/zgrx84/how_would_you_write_an_algorithm_to_solve_this/
-http://www.deskovehry.info/pravidla/soliter.htm
+- https://www.zatrolene-hry.cz/spolecenska-hra/to-mi-neda-pokoj-8518/
+- https://en.wikipedia.org/wiki/Peg_solitaire
+  - https://en.wikipedia.org/wiki/Peg_solitaire#Solutions_to_the_European_game
+- https://www.reddit.com/r/compsci/comments/zgrx84/how_would_you_write_an_algorithm_to_solve_this/
+- http://www.deskovehry.info/pravidla/soliter.htm
